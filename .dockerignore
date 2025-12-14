@@ -1,0 +1,15 @@
+node_modules
+dist
+dist-ssr
+src-tauri/target
+.git
+.gitignore
+*.log
+npm-debug.log*
+coverage
+.vscode
+.idea
+.DS_Store
+Dockerfile*
+docker-compose*.yml
+README.md
